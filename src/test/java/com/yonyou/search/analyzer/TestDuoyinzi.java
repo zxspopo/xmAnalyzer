@@ -3,25 +3,11 @@ package com.yonyou.search.analyzer;
 
 import com.yonyou.iuap.search.analyzer.utils.Pinyin4jUtil;
 
-/*******************************************************************************
- * pinyin4j is a plug-in, you can kind of Chinese characters into phonetic.Multi-tone character,Tone
- * Detailed view http://pinyin4j.sourceforge.net/
- *
- * @author Administrator
- * @ClassName: Pinyin4jUtil
- * @Description: TODO
- * @author wang_china@foxmail.com
- * @date Jan 13, 2012 9:28:28 AM
- */
 public class TestDuoyinzi {
 
     /***************************************************************************
      * Test
      *
-     * @Name: Pinyin4jUtil.java
-     * @Description: TODO
-     * @author: wang_chian@foxmail.com
-     * @version: Jan 13, 2012 9:49:27 AM
      * @param args
      */
     public static void main(String[] args) {
